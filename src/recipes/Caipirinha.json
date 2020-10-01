@@ -1,0 +1,39 @@
+{
+    "name": "Caipirinha",
+	"description": "Caipirinha is a very famous cocktail everywhere in Brazil, especially in the Northeast, where I come from!",
+    "github": "RicardoGFelix",
+    "ingredients": [
+        {
+            "quantity": "80",
+            "measure": "ml",
+            "ingredient": "Cachaça"
+        },
+        {
+            "quantity": "4",
+            "measure": "Cups",
+            "ingredient": "Water"
+        },
+        {
+            "quantity": "1",
+            "measure": "Unit",
+            "ingredient": "Lemon"
+        },
+        {
+            "quantity": "2",
+            "measure": "Spoons",
+            "ingredient": "Sugar"
+        }
+    ],
+    "directions": [
+		"Extract the lemon slices",
+		"Beat the lemon, water and sugar in a blender.",
+		"Add the cachaça to the lemonade."
+    ],
+    "image": "https://img.itdg.com.br/tdg/images/recipes/000/128/825/319875/319875_original.jpg?mode=crop&width=710&height=400",
+	"source": "https://www.tudogostoso.com.br/receita/128825-caipirinha-original.html",
+    "keywords": [
+        "cachaça",
+		"caipirinha",
+		"lemonade"
+    ]
+}
